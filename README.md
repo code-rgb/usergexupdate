@@ -1,7 +1,7 @@
-# # Automatic Updater For oub-remix 
+# # Test Updater For USERGE-X
 
 
-![logo](https://telegra.ph/file/67e5ed14bed07a529e7aa.jpg)
+![logo](http://www.universdescomics.com/wp-content/uploads/2017/01/X-Men-TV-Series-Confirmed.jpg)
 
 
 
@@ -10,7 +10,7 @@
 ##### 1. Clone the repository (if exists, then ignore)
 
 ```bash
-git clone https://github.com/RoyalBoy69/usergrxupdate
+git clone https://github.com/code-rgb/usergrxupdate
 ```
 
 ##### 2. Run the below command to run the script
