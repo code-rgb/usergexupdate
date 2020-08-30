@@ -16,7 +16,7 @@ git clone https://github.com/RoyalBoy69/updatebot
 ##### 2. Run the below command to run the script
 
 ```bash
-. updatebot/s*
+. usergeupdate/s*
 ```
 
 The script will do the process automatically
