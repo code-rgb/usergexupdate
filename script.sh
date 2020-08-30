@@ -2,10 +2,10 @@
 #Some fixes by @RoyalBoy69
 
 
-repo="oub-remix"
+repo="USERGE-X"
 rm -rf ${repo}
 
-echo "You're running the oub-remix Updater script"
+echo "You're running the USERGE-X Updater script"
 echo " "
 # Get username of user
 echo -n "Enter your GitHub username: "
@@ -13,7 +13,7 @@ read userName
 echo " "
 
 # Check if user has forked or has the same repo name
-echo -n "Have you forked oub-remix from sahyam2019 or has the same repo name i.e. oub-remix? [y/n]: "
+echo -n "Have you forked USERGE-X from code-rgb or has the same repo name i.e. USERGE-X? [y/n]: "
 read fork
 echo " "
 
@@ -32,8 +32,9 @@ else
 fi
 
 echo " "
-echo "Updating your oub-remix"
-git pull https://github.com/sahyam2019/oub-remix.git
+echo "Updating your USERGE-X"
+git pull https://github.com/code-rgb/USERGE-X.git
+git diff
 git commit -m "😎"
 git push
 echo " "
