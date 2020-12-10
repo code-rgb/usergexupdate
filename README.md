@@ -9,7 +9,7 @@
 ##### 1. Clone the repository (if exists, then ignore)
 
 ```bash
-git clone https://github.com/code-rgb/usergrxupdate
+git clone https://github.com/code-rgb/usergexupdate
 ```
 
 ##### 2. Run the below command to run the script
